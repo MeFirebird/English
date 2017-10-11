@@ -1,0 +1,30 @@
+
+superseded   取代
+
+hints  提示
+
+asset：资源            hash：散列
+
+模块热替换(HMR - Hot Module Replacement)
+
+substitutions： 占位符
+
+pipeline：流水线
+
+bundled code：代码归拢
+
+emit：生成  触发
+
+discrete chunks of  functionality：  离散功能块
+
+dependency graph  依赖图
+
+non-code asset   非代码资源
+
+LTS - Long Term Support  长期支持版本
+
+DRY：不重复原则
+
+模块打包器(module bundler)       任务执行器(task runner)
+
+unbiased　　正好，不偏不移
